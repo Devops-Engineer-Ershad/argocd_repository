@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: photo-app-container
-        image: ershad150/photo-apps:v1
+        image: achinta1/achinta-colors:green
         ports:
         - containerPort: 80
 
